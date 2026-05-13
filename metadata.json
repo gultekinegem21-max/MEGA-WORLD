@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Craft",
+  "description": "A 3D Minecraft-inspired sandbox built with React and Three.js, featuring block placement, world saving, and an AI Creative Assistant powered by Gemini to help you generate building ideas and blueprints.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
